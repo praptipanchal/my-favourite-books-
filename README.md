@@ -7,7 +7,7 @@ https://praptipanchal.github.io/my-favourite-books-/
 
 ## Screenshot
 ![my-favourite-books](Screenshot2026-08-22132246.png)
-![my-favourite-books](screenshot2.png)
+![my-favourite-books](Screenshot2026-08-22132246.png)
 
 ## 🌟 Features
 
