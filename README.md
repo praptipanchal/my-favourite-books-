@@ -6,7 +6,7 @@ The website displays a collection of my favourite books and provides separate pa
 https://praptipanchal.github.io/my-favourite-books-/
 
 ## Screenshot
-![my-favourite-books](screenshot1.png)
+![my-favourite-books](Screenshot 2026-08-22 132246.png)
 ![my-favourite-books](screenshot2.png)
 
 ## 🌟 Features
