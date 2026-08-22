@@ -3,10 +3,11 @@
 A simple and beginner-friendly **Favourite Books Website** created using **HTML and CSS**.
 The website displays a collection of my favourite books and provides separate pages to explore individual books.
 ## Live Demo
+https://praptipanchal.github.io/my-favourite-books-/
 
 ## Screenshot
-![](screenshot1.png)
-![](screenshot2.png)
+![my-favourite-books](screenshot1.png)
+![my-favourite-books](screenshot2.png)
 
 ## 🌟 Features
 
